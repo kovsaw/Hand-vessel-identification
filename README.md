@@ -13,3 +13,6 @@ During the project, the task was to receive and process a picture with a hand. T
 * database.
 
 First file - Veins_Project - is a neural network for finding fingers on photo.
+
+
+## Article: https://docs.google.com/document/d/1Txin9tOnvkUD7jgCjp1qiL8lWWrrVH9jRuQGKc6AEJw/edit#heading=h.53l2kwsmrq15
